@@ -1,0 +1,29 @@
+* {
+    margin:0;
+    padding:0;
+}
+.ml-auto {
+    margin-left:auto !important
+
+}
+.macboook {
+    margin-top: 10px;
+}
+.carousel-item {
+    padding: 20px 20px;
+}
+.btn {
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding:9px 25px;
+
+}
+.ml-auto {
+    color: orange;
+}
+.card {
+    border:none;
+    box-shadow: grey;
+    box-sizing: border-box;
+}
